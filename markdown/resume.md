@@ -1,100 +1,63 @@
-Johnny Coder
-============
+# Jordan Crane
+
+> <jordan@jordancrane.me> • (503) 333-0272 • [LinkedIn](https://www.linkedin.com/in/jordancrane/) • [Github](https://github.com/jordancrane) 
+
+> _Portland, Oregon / Remote_
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+## Work Experience
 
-----
+7/19 - 6/20
+:   **Senior Software Engineer for [Acorns](https://www.acorns.com/)** • _Portland, Oregon_
 
-Education
----------
+    * Led a team of 2 other backend engineers in the design and implementation of Spend Recurring Deposits, a top-priority greenfield project now responsible for transactions totaling over $6 million a month
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+    * Abstracted the process of scheduling and executing recurring transfers into a single serverless architecture capable of managing them for all product lines
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+    * Improved logging and visibility into a previously opaque monolith responsible for managing over 1 million IRA accounts; expanded it's metrics dashboard from displaying just CPU and memory usage to exposing full metrics suites for GraphQL, 3rd party API performance, database performance, and batch job success rates
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+    * Represented my team on a committee responsible for directing the development of CI/CD tooling
 
-    *Minor: Awesomeology*
+5/18 - 7/19
+:   **Software Engineer for [Acorns](https://www.acorns.com/)** • _Portland, Oregon_
 
-Experience
-----------
+    * Built out a new microservice to support the Local Found Money feature of the Acorns Spend product
 
-**Your Most Recent Work Experience:**
+    * Migrated cross-system investment synchronization stream processor from a monolithic backend into a new serverless architecture, resulting in drastically improved reliability
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+    * Worked with a 3rd party service provider to integrate against their API
 
-* First item
+6/17 - 5/18
+:   **Software Engineer for [Harmonic](https://www.harmonicinc.com/)** • _Beaverton, Oregon_
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+    * Implemented a new visual verification tool using Simple DirectMedia Layer to allow engineers to quickly test the output of their encoder changes
 
-**That Other Job You Had**
+    * Ported the company's existing MPEG2 decoder from assembly to C++11 in order to take advantage of compiler optimization and increase maintainablity
 
-Also with a short description.
-
-Technical Experience
---------------------
-
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
-
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+## Technical Experience
 
 Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+:   Proficient in **Scala**, **Kotlin**, **Typescript**
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+:   Basic knowledge of **Java**, **Python**, **Bash**, **Ruby**
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+Tools/Libraries
+:   Proficient in **Git**, **Docker**, **Serverless Framework**, **Mockito**, **Guice**
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+:   Basic knowledge of **GraphQL**, **Maven**, **SBT**, **JUnit**
 
-[ref]: https://github.com/githubuser/superlongprojectname
+Databases
+:   Proficient in both SQL (**PostgreSQL**) and NoSQL (**DynamoDB**)
 
-Extra Section, Call it Whatever You Want
-----------------------------------------
+Platforms
+:   Proficient in **AWS**, **Datadog**, **CircleCI**
 
-* Human Languages:
+:   Basic knowledge of **Jenkins**
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+## Education
 
-* Random tidbit
+2012 - 2017
+:   **BSc, Computer Engineering** • Oregon State University • _Corvallis, Oregon_
 
-* Other sort of impressive-sounding thing you did
-
-----
-
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+:   _Minor in Computer Science_ • _Graduated Magna Cum Laude_
