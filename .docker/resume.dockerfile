@@ -7,6 +7,7 @@ ENV HOME=/home/app
 WORKDIR $HOME
 
 RUN apt-get update && \
+    DEBIAN_FRONTEND="noninteractive" TZ="America/Los_Angeles" apt-get -y install tzdata && \
     apt-get install -y \
     build-essential \
     wget \
