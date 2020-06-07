@@ -1,6 +1,6 @@
 # Jordan Crane
 
-> <jordan@jordancrane.me> • (503) 333-0272 • [LinkedIn](https://www.linkedin.com/in/jordancrane/) • [Github](https://github.com/jordancrane) 
+> <jordan@jordancrane.me> • (503) 333-0272 • [LinkedIn](https://www.linkedin.com/in/jordancrane/) • [GitHub](https://github.com/jordancrane) 
 
 > _Portland, Oregon / Remote_
 
