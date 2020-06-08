@@ -15,7 +15,7 @@
 
     * Abstracted the process of scheduling and executing recurring transfers into a single serverless architecture capable of managing them for all product lines
 
-    * Improved logging and visibility into a previously opaque monolith responsible for managing over 1 million IRA accounts; expanded it's metrics dashboard from displaying just CPU and memory usage to exposing full metrics suites for GraphQL, 3rd party API performance, database performance, and batch job success rates
+    * Improved logging and visibility into a previously opaque monolith responsible for managing over 1 million IRA accounts; expanded its metrics dashboard from displaying just CPU and memory usage to exposing full metrics suites for GraphQL, 3rd party API performance, database performance, and batch job success rates
 
     * Represented my team on a committee responsible for directing the development of CI/CD tooling
 
