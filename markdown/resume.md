@@ -13,7 +13,7 @@
 
     * Led a team of 2 other backend engineers in the design and implementation of Spend Recurring Deposits, a top-priority greenfield project now responsible for transactions totaling over $6 million a month
 
-    * Abstracted the process of scheduling and executing recurring transfers into a single serverless architecture capable of managing them for all product lines
+    * Abstracted the scheduling and execution of recurring transfers into a single serverless architecture capable of managing the process for all product lines
 
     * Improved logging and visibility into a previously opaque monolith responsible for managing over 1 million IRA accounts; expanded its metrics dashboard from displaying just CPU and memory usage to exposing full metrics suites for GraphQL, 3rd party API performance, database performance, and batch job success rates
 
