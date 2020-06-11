@@ -31,9 +31,9 @@
 6/17 - 5/18
 :   **Software Engineer for [Harmonic](https://www.harmonicinc.com/)** • _Beaverton, Oregon_
 
-    * Implemented a new visual verification tool using Simple DirectMedia Layer to allow engineers to quickly test the output of their encoder changes
+    * Implemented a new testing tool using Simple DirectMedia Layer that enabled engineers to visually verify the output of their encoder changes
 
-    * Ported the company's existing MPEG2 decoder from assembly to C++11 in order to take advantage of compiler optimization and increase maintainablity
+    * Optimized color space conversion code in the HEVC encoder for a 2% overall CPU time reduction
 
 ## Technical Experience
 
@@ -53,11 +53,10 @@ Databases
 Platforms
 :   Proficient in **AWS**, **Datadog**, **CircleCI**
 
-:   Basic knowledge of **Jenkins**
-
 ## Education
 
 2012 - 2017
-:   **BSc, Computer Engineering** • Oregon State University • _Corvallis, Oregon_
+:   **B.Sc. Computer Engineering; Minor: Computer Science from**
+:   **[Oregon State University](https://oregonstate.edu)** • _Corvallis, Oregon_
 
-:   _Minor in Computer Science_ • _Graduated Magna Cum Laude_
+    * Graduated _magna cum laude_ (3.79 / 4.0 GPA)
