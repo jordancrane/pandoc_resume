@@ -4,7 +4,7 @@
 
 > _Portland, Oregon_ 
 
-----
+---
 
 ## Work Experience
 
@@ -57,6 +57,6 @@ Platforms
 
 2012 - 2017
 :   **B.Sc. Computer Engineering; Minor: Computer Science** from
-:   **[Oregon State University](https://oregonstate.edu)** • _Corvallis, Oregon_
+:   [Oregon State University](https://oregonstate.edu) • _Corvallis, Oregon_
 
     * Graduated _magna cum laude_ (3.79 / 4.0 GPA)
