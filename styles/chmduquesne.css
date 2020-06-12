@@ -76,12 +76,10 @@ blockquote {
 a {
     text-decoration: none;
     color: #397249;
+    font-weight: bold;
 }
 a:hover, a:active {
-    background-color: #397249;
-    color: #FFFFFF;
-    text-decoration: none;
-    text-shadow: 1px 1px 1px #333;
+    text-decoration: underline;
 }
 
 /* Horizontal separators */

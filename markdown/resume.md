@@ -1,15 +1,15 @@
 # Jordan Crane
 
-> <jordan@jordancrane.me> • (503) 333-0272 • [Website](https://www.jordancrane.me) • [LinkedIn](https://www.linkedin.com/in/jordancrane/) • [GitHub](https://github.com/jordancrane) 
+> <jordan@jordancrane.me> • (503) 333-0272 • [Website](https://www.jordancrane.me) • [LinkedIn](https://www.linkedin.com/in/jordancrane/) • [GitHub](https://github.com/jordancrane)
 
-> _Portland, Oregon / Remote_
+> _Portland, Oregon_ 
 
 ----
 
 ## Work Experience
 
 7/19 - 6/20
-:   **Senior Software Engineer for [Acorns](https://www.acorns.com/)** • _Portland, Oregon_
+:   **Senior Software Engineer** for [Acorns](https://www.acorns.com/) • _Portland, Oregon_
 
     * Led a team of 2 other backend engineers in the design and implementation of Spend Recurring Deposits, a top-priority greenfield project now responsible for transactions totaling over $6 million a month
 
@@ -20,7 +20,7 @@
     * Represented my team on a committee responsible for directing the development of CI/CD tooling
 
 5/18 - 7/19
-:   **Software Engineer for [Acorns](https://www.acorns.com/)** • _Portland, Oregon_
+:   **Software Engineer** for [Acorns](https://www.acorns.com/) • _Portland, Oregon_
 
     * Built out a new microservice to support the Local Found Money feature of the Acorns Spend product
 
@@ -29,7 +29,7 @@
     * Worked with a 3rd party service provider to integrate against their API
 
 6/17 - 5/18
-:   **Software Engineer for [Harmonic](https://www.harmonicinc.com/)** • _Beaverton, Oregon_
+:   **Software Engineer** for [Harmonic](https://www.harmonicinc.com/) • _Beaverton, Oregon_
 
     * Implemented a new testing tool using Simple DirectMedia Layer that enabled engineers to visually verify the output of their encoder changes
 
@@ -56,7 +56,7 @@ Platforms
 ## Education
 
 2012 - 2017
-:   **B.Sc. Computer Engineering; Minor: Computer Science from**
+:   **B.Sc. Computer Engineering; Minor: Computer Science** from
 :   **[Oregon State University](https://oregonstate.edu)** • _Corvallis, Oregon_
 
     * Graduated _magna cum laude_ (3.79 / 4.0 GPA)
