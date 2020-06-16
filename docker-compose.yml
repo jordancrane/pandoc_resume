@@ -3,11 +3,8 @@ version: '2'
 services:
 
   resume-make:
-    build:
-      context: .
-      dockerfile: ./.docker/resume.dockerfile
     command: make
-    container_name: resume-make
-    image: resume-make
+    image: jordancrane/resume-make
     volumes:
       - .:/home/app/resume
+    command: make clean
