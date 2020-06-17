@@ -6,22 +6,25 @@ on:
     branches: [ master ]
 
 jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    container: 
+      image: jordancrane/resume-make
+      volumes:
+        - ${{ env.GITHUB_WORKSPACE }}:/home/app/resume
+
+    steps:
+      - name: Build
+        run: make
+
   deploy:
     runs-on: ubuntu-latest
 
+    needs: build
+
     steps:
-    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-    - uses: actions/checkout@v2
-
-    - uses: whoan/docker-build-with-cache-action@v5
-      with:
-        username: jordancrane
-        password: "${{ secrets.DOCKER_HUB_PASSWORD }}"
-        image_name: resume-make
-        dockerfile: .docker/resume.dockerfile
-
-    - name: Build
-      run: ./build.sh
+    - run: mkdir public && cd output && cp resume.html ../public/index.html cp resume.pdf resume.rtf resume.docx ../public/
 
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
