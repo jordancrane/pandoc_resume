@@ -3,7 +3,7 @@ name: Deploy Resume
 
 on:
   push:
-    branches: [ master ]
+    branches: [ gh-actions ]
 
 jobs:
   build:
