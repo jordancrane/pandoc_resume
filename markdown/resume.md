@@ -8,37 +8,37 @@
 
 ## Work Experience
 
-7/19 - 6/20
+07/19 -- 06/20
 :   **Senior Software Engineer** for [Acorns](https://www.acorns.com/) • _Portland, Oregon_
 
-    * Led a team of 2 other backend engineers in the design and implementation of Spend Recurring Deposits, a top-priority greenfield project now responsible for transactions totaling over $6 million a month
+    * Led a team of 2 other backend engineers in the design and implementation of Spend Recurring Deposits, a top-priority greenfield project now responsible for transactions totaling over $6 million per month
 
-    * Abstracted the scheduling and execution of recurring transfers into a single serverless architecture capable of managing the process for all product lines
+    * Abstracted the scheduling and execution of recurring transfers into a new architecture consisting of a GraphQL API and Serverless Framework-powered Lambda backend --- designed to scale to millions of scheduled events and capable of managing the process for all product lines
 
-    * Improved logging and visibility into a previously opaque monolith responsible for managing over 1 million IRA accounts; expanded its metrics dashboard from displaying just CPU and memory usage to exposing full metrics suites for GraphQL, 3rd party API performance, database performance, and batch job success rates
+    * Improved logging and visibility into a previously opaque monolith responsible for managing over 1 million IRA accounts --- expanding its metrics dashboard from displaying just CPU and memory usage to exposing full metrics suites for GraphQL, 3rd party API performance, database performance, and batch job success rates
 
     * Represented my team on a committee responsible for directing the development of CI/CD tooling
 
-5/18 - 7/19
+05/18 -- 07/19
 :   **Software Engineer** for [Acorns](https://www.acorns.com/) • _Portland, Oregon_
 
     * Built out a new microservice to support the Local Found Money feature of the Acorns Spend product
 
-    * Migrated cross-system investment synchronization stream processor from a monolithic backend into a new serverless architecture, resulting in drastically improved reliability
+    * Migrated cross-system investment synchronization stream processor from a monolithic backend into a new serverless architecture
 
-    * Worked with a 3rd party service provider to integrate against their API
-
-6/17 - 5/18
+06/17 -- 05/18
 :   **Software Engineer** for [Harmonic](https://www.harmonicinc.com/) • _Beaverton, Oregon_
 
-    * Implemented a new testing tool using Simple DirectMedia Layer that enabled engineers to visually verify the output of their encoder changes
+06/16 -- 12/16
+:   **Software Engineering Intern** for [Harmonic](https://www.harmonicinc.com/) • _Beaverton, Oregon_
 
-    * Optimized color space conversion code in the HEVC encoder for a 2% overall CPU time reduction
+03/15 -- 07/15
+:   **Product Validation Engineering Intern** for [Daimler](https://daimler-trucksnorthamerica.com) • _Portland, Oregon_
 
 ## Technical Experience
 
 Programming Languages
-:   Proficient in **Scala**, **Kotlin**, **Typescript**
+:   Proficient in **Scala**, **Kotlin**, **Typescript**, **Node**
 
 :   Basic knowledge of **Java**, **Python**, **Bash**, **Ruby**
 
@@ -55,7 +55,7 @@ Platforms
 
 ## Education
 
-2012 - 2017
+2012 -- 2017
 :   **B.Sc. Computer Engineering; Minor: Computer Science** from
 :   [Oregon State University](https://oregonstate.edu) • _Corvallis, Oregon_
 
