@@ -30,10 +30,10 @@
 :   **Software Engineer** for [Harmonic](https://www.harmonicinc.com/) • _Beaverton, Oregon_
 
 06/16 -- 12/16
-:   **Software Engineering Intern** for [Harmonic](https://www.harmonicinc.com/) • _Beaverton, Oregon_
+:   **Software Engineer Intern** for [Harmonic](https://www.harmonicinc.com/) • _Beaverton, Oregon_
 
 03/15 -- 07/15
-:   **Product Validation Engineering Intern** for [Daimler](https://daimler-trucksnorthamerica.com) • _Portland, Oregon_
+:   **Product Validation Engineer Intern** for [Daimler](https://daimler-trucksnorthamerica.com) • _Portland, Oregon_
 
 ## Technical Experience
 
