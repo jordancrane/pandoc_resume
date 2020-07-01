@@ -19,12 +19,16 @@ pdf: init
 html: init
 	for f in $(IN_DIR)/*.md; do \
 		FILE_NAME=`basename $$f | sed 's/.md//g'`; \
+		TMP_FILE=$(IN_DIR)/$$FILE_NAME.tmp.md; \
+		FOOTER=$(IN_DIR)/footers/html_footer.md; \
+		cat $$f $$FOOTER > $$TMP_FILE; \
 		echo $$FILE_NAME.html; \
 		pandoc --standalone --include-in-header $(STYLES_DIR)/$(STYLE).css \
 			--lua-filter=pdc-links-target-blank.lua \
 			--from markdown --to html \
-			--output $(OUT_DIR)/$$FILE_NAME.html $$f \
-			--metadata pagetitle=$$FILE_NAME;\
+			--output $(OUT_DIR)/$$FILE_NAME.html $$TMP_FILE \
+			--metadata pagetitle=$$FILE_NAME; \
+		rm $$TMP_FILE;\
 	done
 
 docx: init
