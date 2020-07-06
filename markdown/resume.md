@@ -45,7 +45,7 @@ Programming Languages
 Tools/Libraries
 :   Proficient in **Git**, **Docker**, **Serverless Framework**, **Mockito**, **Guice**
 
-:   Basic knowledge of **GraphQL**, **Maven**, **SBT**, **JUnit**
+:   Basic knowledge of **GraphQL**, **jOOQ**, **Maven**, **SBT**, **JUnit**
 
 Databases
 :   Proficient in both SQL (**PostgreSQL**) and NoSQL (**DynamoDB**)
