@@ -30,7 +30,7 @@ html: init
 			--lua-filter=pdc-links-target-blank.lua \
 			--from markdown --to html \
 			--output $(OUT_DIR)/$$FILE_NAME.html $$TMP_FILE \
-			--metadata pagetitle=$$FILE_NAME; \
+			--metadata pagetitle="Jordan Crane"; \
 		rm $$TMP_FILE;\
 	done
 
