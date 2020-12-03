@@ -9,9 +9,9 @@
 ## Work Experience
 
 08/20 -- Present
-: **Senior Software Engineer** for [Future State Consulting](https://futurepdx.com/) • _Portland, Oregon_
+: **Senior Software Engineer** for [Nike](https://www.nike.com/) via [Future State Consulting](https://futurepdx.com/) • _Portland, Oregon_
 
-    * On contract at Nike
+    * Contributed to custom OpenID Connect authentication solutions to serve Nike's global retail organization
 
 07/19 -- 06/20
 : **Senior Software Engineer** for [Acorns](https://www.acorns.com/) • _Portland, Oregon_
@@ -26,10 +26,6 @@
 
 05/18 -- 07/19
 : **Software Engineer** for [Acorns](https://www.acorns.com/) • _Portland, Oregon_
-
-    * Built out a new microservice to support the Local Found Money feature of the Acorns Spend product
-
-    * Migrated cross-system investment synchronization stream processor from a monolithic backend into a new serverless architecture
 
 06/17 -- 05/18
 : **Software Engineer** for [Harmonic](https://www.harmonicinc.com/) • _Beaverton, Oregon_
