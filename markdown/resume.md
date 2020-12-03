@@ -9,9 +9,9 @@
 ## Work Experience
 
 08/20 -- Present
-: **Senior Software Engineer** for [Nike](https://www.nike.com/) via [Future State Consulting](https://futurepdx.com/) • _Portland, Oregon_
+: **Senior Software Engineer** for [Nike](https://www.nike.com/) via [Future State Consulting](https://futurepdx.com/) • _Beaverton, Oregon_
 
-    * Contributed to custom OpenID Connect authentication solutions to serve Nike's global retail organization
+    * Contributed to custom OpenID Connect authentication solutions that serve Nike's global retail organization
 
 07/19 -- 06/20
 : **Senior Software Engineer** for [Acorns](https://www.acorns.com/) • _Portland, Oregon_
