@@ -9,7 +9,8 @@
 ## Work Experience
 
 08/20 -- Present
-: **Senior Software Engineer** for [Nike](https://www.nike.com/) via [Future State Consulting](https://futurepdx.com/) • _Beaverton, Oregon_
+: **Senior Software Engineer** for [Nike](https://www.nike.com/) • _Beaverton, Oregon_
+: (Contract via [Future State Consulting](https://futurepdx.com/))
 
     * Contributed to custom OpenID Connect authentication solutions that serve Nike's global retail organization
 
@@ -36,14 +37,14 @@
 ## Technical Experience
 
 Programming Languages
-: Proficient in **Scala**, **Kotlin**, **Typescript**, **Node**
+: Proficient in **Scala**, **Kotlin**, **TypeScript**, **Node.js**
 
 : Working knowledge of **Java**, **Python**, **Bash**, **Ruby**
 
 Tools/Libraries
 : Proficient in **Git**, **Docker**, **Serverless Framework**, **Mockito**, **Guice**
 
-: Working knowledge of **GraphQL**, **jOOQ**, **Maven**, **SBT**, **JUnit**
+: Working knowledge of **GraphQL**, **npm**, **Mocha**, **jOOQ**, **Maven**, **SBT**, **JUnit**
 
 Databases
 : Proficient in both SQL (**PostgreSQL**) and NoSQL (**DynamoDB**)
